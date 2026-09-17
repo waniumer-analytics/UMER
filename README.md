@@ -1,103 +1,1155 @@
-<h1 align="center">SALAM, I'm WANI UMER</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
 
 <p align="center">
-Transforming raw data into meaningful insights that drive smarter business decisions.
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
 </p>
 
-<hr>
+---
 
-<h2> About Me</h2>
+## About Me
 
-<ul>
-<li>📊 Skilled in <b>Excel, Power BI, SQL </b></li>
-<li>🚀 Currently improving <b>Python, Data Engineering, Microsoft Fabric, AI Automation</b></li>
-<li>📈 Passionate about <b>Data Analytics and Business Intelligence</b></li>
-<li>🌐 Portfolio: <a href="https://codebasics.io/portfolio/WANI-UMER" target="_blank">codebasics.io/portfolio/WANI-UMER</a></li>
-</ul>
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
 
-<hr>
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
 
-<h2>🌐 Connect With Me</h2>
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
 
 <p align="center">
 
-<a href="https://codebasics.io/portfolio/WANI-UMER" target="_blank">
-<img src="https://img.icons8.com/fluency/48/domain.png" height="45"/>
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  |  
 
-<a href="https://www.linkedin.com/in/waniumer-analytics" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
 </a>
 
 </p>
 
-<hr>
+---
 
-<h2>🛠️ Languages and Tools</h2>
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
+
+---
+
+## About Me
+
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
+
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
+
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
 
 <p align="center">
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50"/>
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
 
-<img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
+  |  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
 
-<img src="https://img.icons8.com/color/48/sql.png" height="50"/>
+  |  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
 
 </p>
 
-<hr>
+---
 
-<h2>📊 Featured Projects</h2>
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
 
-<ul>
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
 
-<li>
-<b>Blinkit Sales Insights Excel Dashboard</b><br>
-Interactive Excel dashboard analyzing Blinkit sales performance, category insights, and outlet trends.
-</li>
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
 
-<br>
+---
 
-<li>
-<b>Credit Card Spending Analytics (Power BI)</b><br>
-Power BI dashboard analyzing credit card transactions, customer spending patterns, and financial insights.
-</li>
+## About Me
 
-<br>
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
 
-<li>
-<b>AtliQ Hospitality Insights Dashboard (Power BI)</b><br>
-Business intelligence dashboard analyzing revenue trends, booking patterns, and hotel performance metrics.
-</li>
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
 
-<br>
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
 
-<li>
-<b>AtliQ HR Presence Analytics (Power BI)</b><br>
-HR analytics dashboard tracking employee presence trends, WFH utilization, and sick leave patterns.
-</li>
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
 
-<br>
+---
 
-<li>
-<b>Movie Trends & Ratings Analysis (SQL)</b><br>
-SQL-based analytics project exploring movie ratings, ROI, industry trends, and collaboration insights.
-</li>
+## Technical Skills
 
-<br>
+**BI & Visualization**
 
-<li>
-<b>Customer Segmentation Analysis (RFM Model)</b><br>
-Customer segmentation project using Recency, Frequency, and Monetary analysis to identify customer groups.
-</li>
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
 
-</ul>
+**Programming & Analytics**
 
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
+
+  |  
+
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
+
+---
+
+## About Me
+
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
+
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
+
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
+
+  |  
+
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
+
+---
+
+## About Me
+
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
+
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
+
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
+
+  |  
+
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
+
+---
+
+## About Me
+
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
+
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
+
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
+
+  |  
+
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
+</p>
+<h1 align="center">Hi, I'm WANI UMER</h1>
+
+<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+
+<p align="center">
+Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
+</p>
+
+---
+
+## About Me
+
+I’m a **Data Analyst** focused on Business Intelligence, customer analytics, and performance analytics.
+
+With a **Bachelor’s degree in Geography**, I developed strong analytical thinking, pattern recognition, and problem-solving skills. I transitioned these skills into data analytics and have worked on business-focused projects across **Banking, Marketing, Hospitality, Retail, Insurance, and Telecom**.
+
+I have hands-on experience in **data cleaning, data validation, exploratory data analysis, KPI development, data modeling, dashboard development, and business reporting**.
+
+I also completed a **4-week Data Analyst Internship at AtliQ Technologies**, working on insurance and telecom analytics using Power BI.
+
+---
+
+## Technical Skills
+
+**BI & Visualization**
+
+* Power BI
+* Tableau
+* Data Visualization
+* Dashboard Development
+
+**Programming & Analytics**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+
+**SQL**
+
+* MySQL
+* Joins
+* CTEs
+* Window Functions
+* Aggregate Functions
+* Subqueries
+
+**Excel**
+
+* Advanced Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Lookups
+* Charts
+
+**Data & Analytics**
+
+* DAX
+* Data Modeling
+* KPI Development
+* Business Intelligence
+* Business Reporting
+* Customer Analytics
+
+**Data Engineering**
+
+* AWS S3
+* AWS Glue
+* AWS Lambda
+* Amazon Athena
+* Amazon Redshift
+* ETL
+
+---
+
+## Featured Projects
+
+### 1. Mitron Bank — Credit Card Strategy & Customer Analytics
+
+**Tableau | SQL | Python | Excel**
+
+Analysed customer demographics, spending behaviour, payment modes, and income utilisation to identify target customer segments and develop a data-driven credit-card product strategy.
+
+### 2. Shield Insurance — Business Performance Analytics
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed insurance revenue, customers, sales channels, age groups, cities, and growth trends to identify business performance patterns and customer-segment opportunities.
+
+### 3. Wavecon Telecom — Business Performance & 5G Analysis
+
+**Power BI | DAX | Power Query | Data Modeling**
+
+Analysed telecom revenue, ARPU, active users, market share, city performance, and Before/After 5G metrics to understand business and customer performance trends.
+
+### 4. Marketing Campaign Performance Analysis
+
+**Python | SQL | Power BI | DAX | Excel**
+
+Analysed campaign performance, marketing ROI, customer behaviour, product performance, channel effectiveness, and Customer Lifetime Value through an end-to-end analytics solution.
+
+### 5. Banking Fraud Detection & Transaction Analytics
+
+**Python | SQL | Power BI**
+
+Analysed banking transactions to identify fraud patterns, customer behaviour, transaction trends, and key business KPIs using Python, SQL, and Power BI.
+
+### 6. Tech Instagram Influencer Analysis
+
+**MySQL | SQL**
+
+Analysed Instagram content performance, audience growth, reach, engagement, categories, and publishing trends using advanced SQL techniques, including CTEs, window functions, CASE statements, and stored procedures.
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — AtliQ Technologies**
+*4-Week Virtual Internship | 2026*
+
+Worked on business analytics projects across **Insurance and Telecom**, with responsibilities including data cleaning, validation, reporting, Power BI dashboard development, and client-handling activities.
+
+---
+
+## Certifications
+
+* Get Job Ready: Power BI Data Analytics for All Levels 3.0 — Codebasics
+* Data Engineering Basics for Data Analysts — Codebasics
+* Microsoft Fabric Mini: For Data Analysts — Codebasics
+* SQL Beginner to Advanced for Data Professionals — Codebasics
+* Excel: Master of Business Intelligence — Codebasics
+* AI Automation for Data Professionals — Codebasics
+* Prompt Engineering for ChatGPT — Great Learning
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://codebasics.io/portfolio/WANI-UMER">
+Portfolio
+</a>
+
+  |  
+
+<a href="https://www.linkedin.com/in/waniumer-analytics">
+LinkedIn
+</a>
+
+  |  
+
+<a href="https://github.com/waniumer-analytics">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Data Analyst | Business Intelligence | Customer & Performance Analytics</b>
 </p>
