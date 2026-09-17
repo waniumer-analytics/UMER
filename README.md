@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm WANI UMER</h1>
 
-<h3 align="center">Data Analyst | Business Intelligence | Customer & Performance Analytics</h3>
+<h3 align="center">Data Analyst </h3>
 
 <p align="center">
 Turning business data into structured insights, interactive dashboards, and decision-ready analytics.
